@@ -1,5 +1,5 @@
 
-public class HeapMemory {
+public class HeapMemoryStatistics {
 
 	public static void main(String[] args) {
 
